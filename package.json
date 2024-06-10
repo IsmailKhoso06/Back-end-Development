@@ -1,0 +1,20 @@
+{
+  "name": "back-end-development",
+  "version": "1.0.0",
+  "description": "First Back-end Code ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Back-end",
+    "Development"
+  ],
+  "author": "Ismael Khoso",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
